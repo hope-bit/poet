@@ -85,3 +85,17 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: lightsteelblue;
 }
+
+abt {
+    text-align: left;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+ah {
+    text-align: left;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: lightsteelblue;
+}
