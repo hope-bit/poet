@@ -2,6 +2,7 @@
     text-align: left;
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
+    background: lightsteelblue;
 }
 
 h1 {
@@ -13,5 +14,6 @@ h1 {
 .newTitle {
     text-align: left;
     font-size: 24px;
+    background: lightgreen;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
